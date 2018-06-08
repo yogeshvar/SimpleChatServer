@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simple Chat Server in Python. #
 
 This is a Simple Chat Server in Python that uses TCP to send messages between two clients.
