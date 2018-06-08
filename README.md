@@ -8,12 +8,15 @@ There are 2 files.
 2. client.py - Which is used by the client.
 
 We can start the server in the desired host by using IDLE in Windows or using terminal in Mac/Linux.
-
+```
 $ python server.py
+```
 
 Then we start the client using the command 
 
+```
 $ python client.py
+```
 
 The GUI for the client is developed in Tkinter. Here we can assign the ip address of the server, and the port that is binded by the server program. Then we click the connect button.
 
